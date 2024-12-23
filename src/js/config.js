@@ -4,7 +4,7 @@ var config = {};
 
 config.TRANSPARENCY = false;
 config.TRANSPARENCY_TYPE = 'squares'; //squares, green, grey
-config.LANG = 'en';
+config.LANG = 'zh';
 config.WIDTH = null;
 config.HEIGHT = null;
 config.visible_width = null;
